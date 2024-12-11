@@ -33,6 +33,7 @@ A fun fact about me is that I enjoy working on some really innovative projects, 
 
 ## 👩🏻‍💻 Favorite Quote:
 "Strive not to be a success, but rather to be of value." – Albert Einstein
+
 This quote resonates deeply with me as I navigate the world of software engineering, Data Science and technology.
 
 ## 📫 Let's Connect🚀:
